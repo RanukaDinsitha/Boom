@@ -1,0 +1,6 @@
+# ignore
+Scripts
+Lib/
+Include/
+pyvenv.cfg
+.history/
